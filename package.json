@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bryan Matheus <bryan.matheusbmf@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryan-matheus/learn-jwt-ci.git"
+  },
   "license": "MIT",
   "scripts": {
     "build": "babel src --extensions \".js,.ts\" --out-dir dist --copy-files --no-copy-ignored",
